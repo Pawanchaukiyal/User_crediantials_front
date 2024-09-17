@@ -33,7 +33,7 @@ const Login = () => {
       } else {
         toast.error('An unexpected error occurred. Please try again.');
       }
-    }
+    } 
   };
 
   return (
